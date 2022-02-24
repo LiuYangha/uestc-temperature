@@ -37,7 +37,7 @@
     "method": "POST",
     "url": "https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/monitorRegister",
     "data": {
-      "currentAddress": "江苏省苏州市常熟市",
+      "currentAddress": "黑龙江省齐齐哈尔市依安县",
       "remark": "",
       "healthInfo": "正常",
       "healthColor": "绿色",
@@ -47,9 +47,9 @@
       "isLeaveChengdu": 1,
       "isSymptom": 0,
       "temperature": "36.5°C~36.9°C",
-      "province": "江苏省",
-      "city": "苏州市",
-      "county": "常熟市"
+      "province": "黑龙江省",
+      "city": "齐齐哈尔市",
+      "county": "依安市"
     },
     "description": "离校学生数据"
   }
